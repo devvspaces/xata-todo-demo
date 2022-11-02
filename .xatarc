@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://ayanwola-ayomide-s-workspace-ravucl.us-east-1.xata.sh/db/xata-app",
+  "codegen": {
+    "output": "app/xata.ts"
+  }
+}
